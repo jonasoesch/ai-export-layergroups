@@ -3,7 +3,7 @@ Illustrator-Skripts für die Grafik-Produktion bei NZZ Visuals.
 ## Installation
 
 * Terminal öffnen
-* Folgenden Befehl kopieren, einfügen und mit Enter ausführen: `cd /Applications/Adobe\ Illustrator\ 2022/Presets.localized/de_DE/Skripten`
+* Folgenden Befehl kopieren, einfügen und mit Enter ausführen: `cd /Applications/Adobe\ Illustrator\ 2024/Presets.localized/de_DE/Skripten`
 * Danach folgenden Befehl kopieren, einfügen und ausführen: `sudo git clone https://github.com/jonasoesch/nzz-illustrator-scripts .`
 * Illustrator neu starten
 
