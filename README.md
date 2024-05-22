@@ -3,13 +3,13 @@ Illustrator-Skripts für die Grafik-Produktion bei NZZ Visuals.
 ## Installation
 
 * Terminal öffnen
-* Folgenden Befehl kopieren, einfügen und mit Enter ausführen: `cd /Applications/Adobe\ Illustrator\ 2022/Presets.localized/de_DE/Skripten`
-* Danach folgenden Befehl kopieren, einfügen und ausführen: `sudo git clone https://github.com/jonasoesch/nzz-illustrator-scripts .`
+* Folgenden Befehl kopieren, einfügen und mit Enter ausführen: `cd /Applications/Adobe\ Illustrator\ 2024/Presets.localized/de_DE/Skripten`
+* Danach folgenden Befehl kopieren, einfügen und ausführen: `sudo git clone https://github.com/nzzdev/nzz-illustrator-scripts.git`
 * Illustrator neu starten
 
 Der Befehl funktioniert nur, wenn der `Skripten`-Ordner vorher leer ist. Ist Illustrator auf Englisch oder einer anderen Sprache installiert, kann der Ordnernamen im ersten Befehl leicht variieren. Statt `de_DE` zum Beispiel `en_GB`.
 
-Alternativ kann man die Skripte auch von Hand in Ordner `/Applications/Adobe Illustrator 2022/Presets.l/de_DE/Skripten` kopiert werden. Dazu auf [https://github.com/nzzdev/nzz-illustrator-scripts](https://github.com/nzzdev/nzz-illustrator-scripts) oben rechts auf "Code" und danach auf "Download ZIP" klicken.
+Alternativ kann man die Skripte auch von Hand in Ordner `/Applications/Adobe Illustrator 2024/Presets.localized/de_DE/Skripten` kopiert werden. Dazu auf [https://github.com/nzzdev/nzz-illustrator-scripts](https://github.com/nzzdev/nzz-illustrator-scripts) oben rechts auf "Code" und danach auf "Download ZIP" klicken.
 
 ## Verwendung
 
